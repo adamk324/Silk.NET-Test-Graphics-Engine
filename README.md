@@ -1,5 +1,5 @@
 # Silk.NET-Test-Graphics-Engine
-#A lightweight custom 3D engine built in C# using Silk.NET and OpenGL, featuring real-time rendering, ImGui editor tools, scene serialization, and a basic project management system.
+# A lightweight custom 3D engine built in C# using Silk.NET and OpenGL, featuring real-time rendering, ImGui editor tools, scene serialization, and a basic project management system.
 
 Features:
 OpenGL rendering via Silk.NET
