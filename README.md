@@ -1,2 +1,17 @@
 # Silk.NET-Test-Graphics-Engine
-An engine made by ai and human coding, in very early stages!
+#A lightweight custom 3D engine built in C# using Silk.NET and OpenGL, featuring real-time rendering, ImGui editor tools, scene serialization, and a basic project management system.
+
+Features:
+OpenGL rendering via Silk.NET
+ImGui-based in-engine editor UI
+Scene system with JSON save/load
+OBJ model loader (basic parser)
+Dynamic object spawning (cubes, pyramids, custom models)
+Point lights + directional lighting system
+Shadow mapping (depth pass implementation)
+Camera movement system (WASD + mouse look)
+Project manager + content browser
+Texture assignment system
+Notes:
+
+This project is in early development and contains experimental engine architecture and unfinished systems. Expect frequent breaking changes.
