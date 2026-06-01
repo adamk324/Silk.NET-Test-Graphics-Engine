@@ -1,19 +1,21 @@
-# Silk.NET-Test-Graphics-Engine
-A lightweight custom 3D engine built in C# using Silk.NET and OpenGL, featuring real-time rendering, ImGui editor tools, scene serialization, and a basic project management system.
+# Silk.NET Test Graphics Engine
 
-Features:
-OpenGL rendering via Silk.NET
-ImGui-based in-engine editor UI
-Scene system with JSON save/load
-OBJ model loader (basic parser)
-Dynamic object spawning (cubes, pyramids, custom models)
-Point lights + directional lighting system
-Shadow mapping (depth pass implementation)
-Camera movement system (WASD + mouse look)
-Project manager + content browser
-Texture assignment system
-Notes:
+A small experimental graphics engine built with **Silk.NET**, **OpenGL**, and **ImGui.NET**.
 
-This project is in early development and contains experimental engine architecture and unfinished systems. Expect frequent breaking changes.
+## Features (WIP)
+- OpenGL rendering via Silk.NET
+- Windowing system
+- ImGui integration
+- Basic 3D primitives (Cube, Pyramid, Floor)
+- Shader-based rendering
 
-You can get the Pre Release by clicking the Release Tags, V0.0.1, and get the Release.Zip, extract it and start CustomGameEngine.exe
+## Requirements
+- .NET 10 SDK (or compatible version)
+- Windows (primary target)
+- GPU with OpenGL support
+
+## Build & Run
+```bash
+dotnet restore
+dotnet build
+dotnet run
