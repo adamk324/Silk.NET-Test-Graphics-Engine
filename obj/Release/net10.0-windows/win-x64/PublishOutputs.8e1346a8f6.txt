@@ -1,0 +1,6 @@
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\CustomGameEngine.pdb
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\cube_fragment.glsl
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\cube_vertex.glsl
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\cimgui.dll
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\glfw3.dll
+E:\CODE\CustomGameEngine\bin\Release\net10.0-windows\win-x64\publish\CustomGameEngine.exe
