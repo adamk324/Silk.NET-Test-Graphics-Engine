@@ -15,3 +15,5 @@ Texture assignment system
 Notes:
 
 This project is in early development and contains experimental engine architecture and unfinished systems. Expect frequent breaking changes.
+
+You can get the Pre Release by clicking the Release Tags, V0.0.1, and get the Release.Zip, extract it and start CustomGameEngine.exe
